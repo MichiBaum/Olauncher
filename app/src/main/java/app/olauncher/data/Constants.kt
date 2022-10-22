@@ -48,20 +48,33 @@ object Constants {
     const val TRIPLE_TAP_DELAY_MS = 300L
     const val LONG_PRESS_DELAY_MS = 500L
 
+    // TODO change url
     const val URL_ABOUT_OLAUNCHER =
         "https://tanujnotes.notion.site/Olauncher-Minimal-AF-4843e398b05a455bb521b0665b26fbcd"
+    // TODO change url
     const val URL_OLAUNCHER_PRIVACY =
         "https://tanujnotes.notion.site/Olauncher-Privacy-Policy-dd6ac5101ddd4b3da9d27057889d44ab"
+    // TODO change url
     const val URL_PUBLIC_ROADMAP = "https://tanujnotes.notion.site/Olauncher-Roadmap-1522aa8182424415b5b89bed923b0ccd"
+    // TODO change url
     const val URL_OLAUNCHER_GITHUB = "https://www.github.com/tanujnotes/Olauncher"
+    // TODO change url
     const val URL_OLAUNCHER_PLAY_STORE = "https://play.google.com/store/apps/details?id=app.olauncher"
+    // TODO change url
     const val URL_PLAY_STORE_DEV = "https://play.google.com/store/apps/dev?id=7198807840081074933"
+    // TODO change url
     const val URL_TWITTER_TANUJ = "https://twitter.com/tanujnotes"
+    // TODO change url
     const val URL_INSTA_OLAUNCHER = "https://instagram.com/olauncherapp"
+    // TODO change url
     const val URL_AFFILIATE = "https://amzn.to/3uftwFW"
+    // TODO change url
     const val URL_AFFILIATE_IN = "https://www.amazon.in/?tag=tanujnotes-20"
+    // TODO change url
     const val URL_NOTIFY = "https://gist.githubusercontent.com/tanujnotes/da9490348422979650ccb3ec9392a40f/raw"
+    // TODO change url
     const val URL_WALLPAPERS = "https://gist.githubusercontent.com/tanujnotes/bf400a269746c5c124a599af040dd82e/raw"
+    // TODO change url
     const val URL_DEFAULT_DARK_WALLPAPER = "https://images.unsplash.com/photo-1512551980832-13df02babc9e"
     const val URL_DEFAULT_LIGHT_WALLPAPER = "https://images.unsplash.com/photo-1515549832467-8783363e19b6"
     const val URL_DUCK_SEARCH = "https://duck.co/?q="

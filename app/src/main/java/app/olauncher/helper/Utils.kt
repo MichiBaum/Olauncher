@@ -249,7 +249,7 @@ suspend fun getBitmapFromURL(src: String?): Bitmap? {
             connection.connect()
             val input: InputStream = connection.inputStream
             bitmap = BitmapFactory.decodeStream(input)
-        } catch (e: java.lang.Exception) {
+        } catch (_: java.lang.Exception) {
         }
         bitmap
     }
@@ -298,7 +298,7 @@ suspend fun setWallpaper(appContext: Context, url: String): Boolean {
         try {
             originalImageBitmap.recycle()
             scaledBitmap.recycle()
-        } catch (e: Exception) {
+        } catch (_: Exception) {
         }
         true
     }
